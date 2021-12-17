@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinusboss
 - 👀 I’m interested in coding, gaming with friends and going out
-- 🌱 I’m currently learning HTML, CSS, javascript, PHP and C#
+- 🌱 I’m currently learning HTML, CSS, javascript, PHP and C# and laravel
 - 💞️ I’m looking to collaborate on business
 - 📫 How to reach me tinusboss@gmail.com
 
